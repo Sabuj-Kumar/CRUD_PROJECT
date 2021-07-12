@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Sabuj Kumar Tarofdar",
+      "email": "sabuj.kumartarofdar@outlook.com",
+      "dateOfBirth": "17-Oct-1996",
+      "profession": "software Engineer",
+      "id": 1
+    },
+    {
+      "name": "niber kumar tarofdar",
+      "email": "niber@gmail.com",
+      "dateOfBirth": "27-Nov-2002",
+      "profession": "Student",
+      "id": 2
+    },
+    {
+      "name": "Arko Voumik",
+      "email": "arko139.@gmail.com",
+      "dateOfBirth": "2-june-2011",
+      "profession": "Student",
+      "id": 3
+    }
+  ]
+}

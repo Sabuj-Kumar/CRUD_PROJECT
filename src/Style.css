@@ -1,0 +1,15 @@
+.border{
+    margin: 1px;
+    color: green;
+    padding: 1%;
+    border-style: solid;
+}
+.OutputBorder{
+
+    margin: 1px;
+    color: black;
+    padding: 1%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
